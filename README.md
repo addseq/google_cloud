@@ -6,3 +6,6 @@ https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/CPB100/
 
 TensorFlow
 https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/learn
+
+Google Cloud Icons and Diagram Templates
+https://cloud.google.com/icons/
